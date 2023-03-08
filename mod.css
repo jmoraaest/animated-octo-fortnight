@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(168, 91, 91);
+    }
+    
+    section{
+        background-color:white;
+        border-radius: 10px; /* borda arredondada */
+        padding: 15px; /* espaçamento */
+        width: 500px;
+        margin: auto; /* centralizar */
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.514);}
+
+        h1{
+        text-align: center;
+        }
+
+        h3 {
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+        }
+
+        #res{
+            color: red;
+        }
